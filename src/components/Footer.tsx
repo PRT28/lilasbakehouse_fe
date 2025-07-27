@@ -7,7 +7,7 @@ const Footer = () => {
     <footer className="bg-[#6B4F4F] text-white py-8 px-6 md:px-12 mt-auto">
       <div className="container mx-auto grid grid-cols-1 md:grid-cols-3 gap-8">
         <div>
-          <h3 className="text-xl font-semibold mb-4">Lili's Bakehouse</h3>
+          <h3 className="text-xl font-semibold mb-4">Lili&apos;s Bakehouse</h3>
           <p className="text-sm">Crafting healthy and delicious dry breads, muffins, and more with love and natural ingredients.</p>
         </div>
         <div>

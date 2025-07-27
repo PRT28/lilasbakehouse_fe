@@ -19,7 +19,7 @@ const Header = () => {
       <div className="flex items-center space-x-2">
         <img src="https://placehold.co/40x40/d4b29c/ffffff?text=LB" alt="Lili's Bakehouse Logo" className="rounded-full" />
         <Link href="/" className="text-2xl font-bold text-[#6B4F4F]">
-          Lili's Bakehouse
+          Lili&apos;s Bakehouse
         </Link>
         <p className="text-sm text-gray-500 hidden md:block">THE CRAFT IN CARING</p>
       </div>
