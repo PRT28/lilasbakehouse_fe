@@ -33,13 +33,13 @@ const ContactUsPage = () => {
         <div>
           <h2 className="text-3xl font-extrabold text-[#6b4f4f] mb-6">Get in Touch</h2>
           <p className="text-gray-700 mb-6">
-            We'd love to hear from you! Whether you have a question about our products,
+            We&apos;d love to hear from you! Whether you have a question about our products,
             feedback, or just want to say hello, feel free to reach out.
           </p>
           <div className="space-y-4">
             <div className="flex items-center">
               <FontAwesomeIcon icon={faMapMarkerAlt} className="text-[#d4b29c] text-xl mr-3" />
-              <p className="text-gray-700">123 Bakehouse Lane, Baker's Town, BT 12345</p>
+              <p className="text-gray-700">123 Bakehouse Lane, Baker&apos;s Town, BT 12345</p>
             </div>
             <div className="flex items-center">
               <FontAwesomeIcon icon={faPhone} className="text-[#d4b29c] text-xl mr-3" />

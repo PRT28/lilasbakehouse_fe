@@ -35,7 +35,7 @@ export default function RootLayout({
         <AuthProvider>
           <CartProvider>
             <Head>
-              <title>Lili's Bakehouse</title>
+              <title>Lili&apos;s Bakehouse</title>
               <meta name="viewport" content="width=device-width, initial-scale=1.0" />
               <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
             </Head>

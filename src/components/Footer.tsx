@@ -26,7 +26,7 @@ const Footer = () => {
             <a href="#" className="text-white hover:text-gray-300 transition duration-300"><FontAwesomeIcon icon={faInstagram} className="text-2xl" /></a>
             <a href="#" className="text-white hover:text-gray-300 transition duration-300"><FontAwesomeIcon icon={faTwitter} className="text-2xl" /></a>
           </div>
-          <p className="text-sm mt-4">&copy; {new Date().getFullYear()} Lili's Bakehouse. All rights reserved.</p>
+          <p className="text-sm mt-4">&copy; {new Date().getFullYear()} Lili&apos;s Bakehouse. All rights reserved.</p>
         </div>
       </div>
     </footer>

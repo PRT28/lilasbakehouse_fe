@@ -9,7 +9,7 @@ export interface Product {
   name: string;
   price: number;
   image?: string;
-  [key: string]: any; // In case product has other fields
+  [key: string]: unknown; // In case product has other fields
 }
 
 // Define shape of cart item (product + quantity)
